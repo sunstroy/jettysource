@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 61
+target
+.classpath
+.project
+.settings
+*.swp
+*.patch
+*.diff
+~*
+
+END
